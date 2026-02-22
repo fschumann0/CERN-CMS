@@ -13,9 +13,7 @@ This was one of my first complete deep learning implementations applied to real 
 
 ## Data
 
-The dataset comes from the CERN Open Data Portal:
-
-Dielectron events recorded by CMS (2010): https://opendata.cern.ch/record/304
+This data was sourced from the CERN Open Data Portal: Dielectron events recorded by CMS (2010): https://opendata.cern.ch/record/304
 
 Specifically, this dataset contains 100.000 reconstructed events where two electrons were detected in proton–proton collisions. Each event contains kinematic properties of two electrons and the invariant mass of the pair. Note: These data were selected for use in education and outreach and contain a subset of the total event information. The selection criteria may be different from that used in CMS physics results.
 
