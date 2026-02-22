@@ -137,7 +137,7 @@ The model learns a sharp probability peak centered on the Z boson mass region.
 
 The neural network significantly outperformed both.
 
-# Benchmarks
+## Benchmarks
 
 Benchmarks were included to validate that the neural network truly learns meaningful physics patterns.
 
@@ -161,7 +161,7 @@ Benchmarks were included to validate that the neural network truly learns meanin
 
 5. Probability vs invariant mass plots
 
-# References 
+## References 
 
 - Mahesh, Batta. (2019). Machine Learning Algorithms -A Review. 10.21275/ART20203995.
 - Deep learning with python. (2017). François Chollet. Manning Publications.
