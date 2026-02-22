@@ -1,5 +1,8 @@
 # A Deep Learning Approach to Classifying Z Boson Candidates in Proton-Proton Collisions Using Dielectron Events
 
+<img width="1404" height="844" alt="image" src="https://github.com/user-attachments/assets/42bff86e-ffec-4e1a-9506-809bf4816fe8" />
+
+
 ## Introduction
 
 This repository contains the data analysis and deep learning pipeline I built to classify dielectron collision events and identify potential Z boson candidates.
