@@ -151,15 +151,15 @@ Benchmarks were included to validate that the neural network truly learns meanin
 
 **Metrics used:**
 
-Accuracy
+1. Accuracy
 
-F1-score
+2. F1-score
 
-ROC AUC
+3. ROC AUC
 
-Confusion matrices
+4. Confusion matrices
 
-Probability vs invariant mass plots
+5. Probability vs invariant mass plots
 
 # References 
 
