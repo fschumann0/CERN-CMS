@@ -9,7 +9,7 @@ This repository contains the data analysis and deep learning pipeline I built to
 
 The goal of this project was to develop an end-to-end machine learning workflow using real data from the CMS Collaboration at CERN, and train a neural network capable of distinguishing events consistent with Z → e⁺e⁻ decays from background events.
 
-This was one of my first complete deep learning implementations applied to real high-energy physics data, and I’m very happy with how it turned out, especially achieving  almost 99% classification accuracy after fine-tuning.
+This was one of my first complete deep learning implementations applied to high-energy physics data, and I’m very happy with how it turned out, especially achieving almost 99% classification accuracy after fine-tuning.
 
 ## Data
 
